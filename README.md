@@ -1,1 +1,1 @@
-This file contains the same of my dataset.
+This file contains the sample of my dataset.
